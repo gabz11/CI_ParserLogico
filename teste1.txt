@@ -1,0 +1,5 @@
+4
+(\neg a)
+(\wedge (\vee a nh) (\neg j))
+(\vee a nh)
+(\wedge p q)
